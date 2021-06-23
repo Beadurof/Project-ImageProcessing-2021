@@ -35,22 +35,17 @@
 ## Resultados obtidos
 
 - Com 9 imagens de treinamento e 1 de teste
-  - Original      - Saída colorizada pelo modelo
+  - Original/Saída colorizada pelo modelo
+  
   <img src="https://github.com/Beadurof/Project-ImageProcessing-2021/blob/main/1o.png" width="300" height="300" /> <img src="https://github.com/Beadurof/Project-ImageProcessing-2021/blob/main/1p.png" width="300" height="300" />
   
   
   
   
-  - Original
-  <img src="https://github.com/Beadurof/Project-ImageProcessing-2021/blob/main/2o.png" width="300" height="300" /> 
-  
-  - Saída colorizada pelo modelo
-  <img src="https://github.com/Beadurof/Project-ImageProcessing-2021/blob/main/2p.png" width="300" height="300" />
+  - Original/Saída colorizada pelo modelo
+  <img src="https://github.com/Beadurof/Project-ImageProcessing-2021/blob/main/2o.png" width="300" height="300" /> <img src="https://github.com/Beadurof/Project-ImageProcessing-2021/blob/main/2p.png" width="300" height="300" />
  
 - Com 135 de treinamento e 15 de teste
-  - Original
-  <img src="https://github.com/Beadurof/Project-ImageProcessing-2021/blob/main/3o.png" width="300" height="300" /> 
-  
-  - Saída colorizada pelo modelo
-  <img src="https://github.com/Beadurof/Project-ImageProcessing-2021/blob/main/3p.png" width="300" height="300" />
+  - Original/Saída colorizada pelo modelo
+  <img src="https://github.com/Beadurof/Project-ImageProcessing-2021/blob/main/3o.png" width="300" height="300" /> <img src="https://github.com/Beadurof/Project-ImageProcessing-2021/blob/main/3p.png" width="300" height="300" />
 
