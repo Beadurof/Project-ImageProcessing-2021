@@ -43,9 +43,11 @@
   
   
   - Original/Saída colorizada pelo modelo
+  
   <img src="https://github.com/Beadurof/Project-ImageProcessing-2021/blob/main/2o.png" width="300" height="300" /> <img src="https://github.com/Beadurof/Project-ImageProcessing-2021/blob/main/2p.png" width="300" height="300" />
  
 - Com 135 de treinamento e 15 de teste
   - Original/Saída colorizada pelo modelo
+  
   <img src="https://github.com/Beadurof/Project-ImageProcessing-2021/blob/main/3o.png" width="300" height="300" /> <img src="https://github.com/Beadurof/Project-ImageProcessing-2021/blob/main/3p.png" width="300" height="300" />
 
