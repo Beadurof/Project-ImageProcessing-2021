@@ -15,7 +15,7 @@
 ## Descrição dos passos
   - Redimensionaremos a imagens para o tamanho de 256x256
   - Etapa associada a análise de cor: convertemos a imagem para Lab pois assim as reduzimos o número de canais que representam cor, sendo 3 em RGB para 2 em Lab. Por consequencia essa etapa de conversão para Lab reduz a complexidade do problema permitindo a colorização das imagens até mesmo com redes mais simples
-  - A partir da conversão para Lab, obtemos o canal L de luminosidade para obtenção da imagem em escala de cinza que será usada como entrada no modelo de rede neural. Já os outros 2 (ab), que contem informação de cor, serão utilizadas para avaliar o modelo durante o treinamento.
+  - A partir da conversão para Lab, obtemos o canal L de luminosidade para obtenção da imagem em escala de cinza que será usada como entrada no modelo de rede neural. Já os outros 2 canais (ab), que contem informação de cor, serão utilizadas para avaliar o modelo durante o treinamento.
   - Pensamos em explorar alguns modelos de redes neurais para avaliar o impacto na colorização das imagens.
   - Utilizaremos o RMSE para estimar o erro obtido entre a imagem colorizada pelo modelo e imagem original, sendo que essas duas imagens estarão no espaço de cor Lab. 
   - Converteremos a imagem em RGB depois para a exibição dos resultados.
