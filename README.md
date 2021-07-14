@@ -53,12 +53,15 @@
 
 - Modelo Treinado com 1500 imagens - Imagem não contida no dataset: 
   - Original/Saída 1
+
   <img src="https://github.com/Beadurof/Project-ImageProcessing-2021/blob/main/4o.jpg" width="300" height="300" /> <img src="https://github.com/Beadurof/Project-ImageProcessing-2021/blob/main/4i.jpg" width="300" height="300" />
 
   - Original/Saída 2
+
   <img src="https://github.com/Beadurof/Project-ImageProcessing-2021/blob/main/5o.jpg" width="300" height="300" /> <img src="https://github.com/Beadurof/Project-ImageProcessing-2021/blob/main/5i.jpg" width="300" height="300" />
 
   - Original/Saída 3
+
   <img src="https://github.com/Beadurof/Project-ImageProcessing-2021/blob/main/6o.jpg" width="300" height="300" /> <img src="https://github.com/Beadurof/Project-ImageProcessing-2021/blob/main/6i.jpg" width="300" height="300" />
   
 Podemos observar que nos resultados de colorização para imagens de paisagens urbanas o modelo possui bastante dificuldade, o que possivelmente ocorre por dois fatores: a maior complexidade de objetos nestas imagens em relação as demais, assim como por uma maior quantidade de imagens de paisagens não urbanas no treinamento. Além disso, nos cenários urbanos existem casos em que uma mesma imagem em preto e branco pode possui diferentes cores plausíveis. Por exemplo, no resultado 3, para o modelo treinado com 1500 imagens, o carro que aparece na imagem poderia ser tanto vermelho ou amarelo sem muitas diferenças em sua versão em escala de cinza.
@@ -66,4 +69,4 @@ Para as demais paisagens, como de florestas e montanhas o modelo já obtém melh
 
 ## Papel dos membros no projeto
 
-Para a realização deste projeto, eram feitas reuniões e o desenvolvimento tanto do código quanto da documentação de forma conjunta e síncrona. Portanto, todos os alunos participaram de todas as etapas do projeto.
+Para a realização deste projeto, eram feitas reuniões e o desenvolvimento tanto do código quanto da documentação de forma conjunta e síncrona. Portanto, todos os membros participaram de todas as etapas do projeto.
