@@ -69,4 +69,4 @@ Para as demais paisagens, como de florestas e montanhas o modelo já obtém melh
 
 ## Papel dos membros no projeto
 
-Para a realização deste projeto, eram feitas reuniões e o desenvolvimento tanto do código quanto da documentação de forma conjunta e síncrona. Portanto, todos os membros participaram de todas as etapas do projeto.
+Para a realização deste projeto, eram feitas reuniões e o desenvolvimento tanto do código quanto da documentação foram feitos de forma conjunta e síncrona. Portanto, todos os membros participaram de todas as etapas do projeto.
